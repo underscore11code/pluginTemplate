@@ -1,0 +1,5 @@
+name: Template
+version: @version@
+main: io.github.underscore11code.template.Template
+api-version: 1.16
+authors: [ Underscore11 ]
